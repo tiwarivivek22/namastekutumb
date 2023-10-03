@@ -1,2 +1,2 @@
-# namastekutumb
+# NamasteKutumb
 Created with CodeSandbox
